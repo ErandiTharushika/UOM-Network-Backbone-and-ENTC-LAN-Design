@@ -81,6 +81,3 @@ Full details, diagrams, and device specifications are in [`docs/Network_Project.
 
 - Cisco Packet Tracer
 
-## Course
-
-EN2150 – Communication Network Engineering, Semester 2, 2026
