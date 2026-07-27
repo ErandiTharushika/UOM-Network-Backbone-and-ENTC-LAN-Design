@@ -1,6 +1,6 @@
-# University of Moratuwa – Network Design Project
+# University of Moratuwa - Network Design Project
 
-**EN2150 – Communication Network Engineering**
+**EN2150 - Communication Network Engineering**
 Department of Electronic and Telecommunication Engineering, University of Moratuwa
 
 ## Group Members
@@ -38,9 +38,9 @@ Both designs were simulated in **Cisco Packet Tracer**, with full IPv4/IPv6 addr
 - **Topology:** Extended star / hierarchical, with two core switches (Cisco 3650-24PS) for redundancy.
 - **Building switches** connect Library, ENTC, L Block, and Sumanadasa to the core.
 - **Passive media:**
-  - Single-mode fibre — core-to-core and core-to-main-node links (high bandwidth, low attenuation, long distance).
-  - Multimode fibre — shorter local distribution links (e.g., Sumanadasa to Mechanical/CSE/Electrical).
-  - Copper crossover cable — inter-building links where fibre wasn't required.
+  - Single-mode fibre - core-to-core and core-to-main-node links (high bandwidth, low attenuation, long distance).
+  - Multimode fibre - shorter local distribution links (e.g., Sumanadasa to Mechanical/CSE/Electrical).
+  - Copper crossover cable - inter-building links where fibre wasn't required.
 
 ### ENTC Internal LAN
 - Central multilayer switch on the ground floor acts as the building core.
@@ -49,8 +49,8 @@ Both designs were simulated in **Cisco Packet Tracer**, with full IPv4/IPv6 addr
 - Copper straight-through cabling used throughout.
 
 ### Active Components
-- **Cisco Catalyst 3650-24PS** — Layer 2/3 multilayer switch, used at the core and department level.
-- **Cisco Catalyst 2960-24TT** — Layer 2 access switch, used for end-device connectivity.
+- **Cisco Catalyst 3650-24PS** - Layer 2/3 multilayer switch, used at the core and department level.
+- **Cisco Catalyst 2960-24TT** - Layer 2 access switch, used for end-device connectivity.
 - Cisco 2911 Routers, Cisco ASA 5506-X Firewalls, and a Cloud-PT WAN emulator complete the backbone.
 
 ### IP Addressing
@@ -74,8 +74,8 @@ Full details, diagrams, and device specifications are in [`docs/Network_Project.
 
 1. Download [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) (free with a Cisco Networking Academy account).
 2. Open the `.pkt` files in the `packet-tracer/` folder:
-   - `Backbone_of_university.pkt` — campus-wide backbone
-   - `ENTC_internal_network.pkt` — ENTC building LAN
+   - `Backbone_of_university.pkt` - campus-wide backbone
+   - `ENTC_internal_network.pkt` - ENTC building LAN
 
 ## Tools Used
 
