@@ -80,7 +80,6 @@ Full details, diagrams, and device specifications are in [`docs/Network_Project.
 ## Tools Used
 
 - Cisco Packet Tracer
-- LaTeX (project report)
 
 ## Course
 
