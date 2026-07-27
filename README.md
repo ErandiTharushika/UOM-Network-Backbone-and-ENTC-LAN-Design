@@ -17,7 +17,7 @@ Department of Electronic and Telecommunication Engineering, University of Moratu
 This project presents a two-level network design for the University of Moratuwa:
 
 1. **Campus Backbone Network** - connects all major buildings (Library, ENTC, L Block, Sumanadasa, CITeS, Mechanical, CSE, Electrical, etc.) using a hierarchical, dual-core topology for reliability and scalability.
-2. **ENTC Building Internal LAN** – a multi-floor building network connecting labs, staff areas, and wireless users, built around a central multilayer switch.
+2. **ENTC Building Internal LAN** - a multi-floor building network connecting labs, staff areas, and wireless users, built around a central multilayer switch.
 
 Both designs were simulated in **Cisco Packet Tracer**, with full IPv4/IPv6 addressing plans and a Bill of Quantities (BOQ) for active and passive components.
 
